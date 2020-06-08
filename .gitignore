@@ -12,6 +12,10 @@ examples/build/*
 examples/*/Debug/*
 examples/*/Release/*
 examples/*/x64/*
+examples/**/out/*
+bin/**
+bin-int/**
+ImGui.vcxproj
 
 ## Visual Studio artifacts
 .vs
